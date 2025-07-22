@@ -1,7 +1,7 @@
 // Typing Text Js
 $(document).on('DOMContentLoaded', function () {
     window.ityped.init(document.querySelector('.ityped'), {
-        strings: ['HI THERE!', 'I’M Obaid Noornai ', 'Graphic Designer!'],
+        strings: ['HI THERE!', 'I’M Obaid Noorani ', 'Graphic Designer!'],
         loop: true
     });
 });
